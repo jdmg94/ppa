@@ -1,0 +1,33 @@
+Package: wingpanel-caffeine
+Version: 0.1.1-1
+Architecture: amd64
+Maintainer: Jose Munoz <jose.munoz.dev@protonmail.com>
+Installed-Size: 88
+Depends: libc6 (>= 2.4), libglib2.0-0 (>= 2.37.3), libgranite6 (>= 6.2.0+r2223+pkg122~ubuntu6.1), libgtk-3-0 (>= 3.11.5), libnotify4 (>= 0.7.0), libwingpanel3
+Filename: ./wingpanel-caffeine_0.1.1-1_amd64.deb
+Size: 22976
+MD5sum: 1583798d236b8c0416121b1cf3c6a6c5
+SHA1: 64ecb2ab08340693cc5bfb7b2913e751bd84efcf
+SHA256: 3178227e02ed63d05eef0bf7970bfe54fbb24fc6142ff9a7af8c492d472e2e77
+Section: Indicators
+Priority: optional
+Homepage: https://github.com/jdmg94/wingpanel-caffeine
+Description: A Wingpanel Indicator that helps to keep your system awake
+
+Package: wingpanel-caffeine
+Version: 0.2.0-1
+Architecture: amd64
+Maintainer: José Muñoz <jose.munoz.dev@protonmail.com>
+Installed-Size: 58
+Depends: libc6 (>= 2.4), libglib2.0-0 (>= 2.37.3), libgranite6 (>= 6.2.0+r2223+pkg122~ubuntu6.1), libgtk-3-0 (>= 3.11.5), libnotify4 (>= 0.7.0), libwingpanel3
+Filename: ./wingpanel-caffeine_0.2.0-1_amd64.deb
+Size: 13836
+MD5sum: 94d65240fe7ed01315e300345dda7997
+SHA1: e60ed40a7783eb640f9dc6da91276a4fdb7faba4
+SHA256: 8c7c9842449425a3acb78e9e2a756e3270ed4e11a29dc52a3d8add9684e77478
+Section: unknown
+Priority: optional
+Homepage: <insert the upstream URL, if relevant>
+Description: <insert up to 60 chars description>
+ <insert long description, indented with spaces>
+
