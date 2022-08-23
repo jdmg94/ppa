@@ -2,8 +2,14 @@
 
 <br />
 
-## How to refresh packages
+## How to use this repository
 
+```
+curl -s --compressed "https://jdmg94.github.io/ppa/ubuntu/KEY.gpg" | sudo apt-key add -
+sudo curl -s --compressed -o /etc/apt/sources.list.d/josemunozdev.list "https://jdmg94.github.io/ppa/ubuntu/josemunozdev.list"
+```
+
+## How to refresh packages
 
 ```
 dpkg-scanpackages --multiversion . > Packages
