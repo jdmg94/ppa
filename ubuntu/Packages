@@ -63,3 +63,19 @@ Priority: optional
 Homepage: https://github.com/jdmg94/wingpanel-indicator-nordvpn
 Description: Unofficial NordVPN Wingpanel Indicator
 
+Package: wingpanel-indicator-nordvpn
+Version: 0.1.0-1
+Architecture: amd64
+Maintainer: José Muñoz <jose.munoz.dev@protonmail.com>
+Installed-Size: 123
+Depends: libc6 (>= 2.4), libglib2.0-0 (>= 2.37.3), libgranite6 (>= 6.2.0+r2223+pkg122~ubuntu6.1), libgtk-3-0 (>= 3.21.6), libwingpanel3
+Filename: ./wingpanel-indicator-nordvpn_0.1.0-1_amd64.deb
+Size: 31992
+MD5sum: f243c9003df5d9be289f86fd98efd3ff
+SHA1: 29359f82ddb50f9325acf3d2f2f40027cd4a625b
+SHA256: bf79b183d637dfc11463bce68b61f46c41ade9961f094bad58b91d9ae2c7dc57
+Section: unknown
+Priority: optional
+Homepage: https://github.com/jdmg94/wingpanel-indicator-nordvpn
+Description: The unofficial wingpanel indicator for NordVPN
+
